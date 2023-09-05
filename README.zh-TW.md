@@ -29,7 +29,7 @@ threadSBT
 使用範例：
 
 ```bat
-python render.py -custom "custom" -update "article"
+python render.py -custom "custom" -update "all"
 ```
 
 版本更新
