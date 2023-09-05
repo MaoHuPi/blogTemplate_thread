@@ -32,7 +32,7 @@ The main program of this project is `render.py`, and other `Python` files can be
 Example of use:
 
 ```bat
-python render.py -custom "custom" -update "article"
+python render.py -custom "custom" -update "all"
 ```
 
 Versions
