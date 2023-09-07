@@ -41,3 +41,13 @@ python render.py -custom "custom" -update "all"
 	2. 修正rss無法上傳至github的問題
 	3. 修正程式區塊語言中txt與text的套色
 	4. 修改footer文字
+
+待做功能
+----
+
+- [ ] 文章主/副標題搜尋
+- [ ] 更多的mcskin動畫
+- [ ] Tex Parse
+- [ ] Latex Parse
+- [ ] slides 多層清單文字化功能修正
+- [ ] footer連結的可點擊性

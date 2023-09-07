@@ -1206,6 +1206,9 @@ article .likerFrame {
 #slidesPlayer .hljs-emphasis {
 	font-style: italic;
 }
+#slidesPlayer :where(.language-text, .language-txt) {
+	color: #dcdfe4 !important;
+}
 
 #effects {
 	width: 100vw;

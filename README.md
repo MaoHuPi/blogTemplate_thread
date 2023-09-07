@@ -44,3 +44,13 @@ Versions
 	2. Fixed the problem that rss could not be uploaded to github.
 	3. Correct the color registration of txt and text in the program block language.
 	4. Modify footer text.
+
+TODO
+----
+
+- [ ] Article main/subtitle search.
+- [ ] more mcskin animations.
+- [ ] Tex Parse.
+- [ ] Latex Parse.
+- [ ] slides multi-level list text function correction.
+- [ ] Clickability of footer links.
