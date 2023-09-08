@@ -41,6 +41,14 @@ python render.py -custom "custom" -update "all"
 	2. 修正rss無法上傳至github的問題
 	3. 修正程式區塊語言中txt與text的套色
 	4. 修改footer文字
+* v1.0.2 2023/09/08 文章跑版與預覽修正
+	1. 修正文章圖片須有alt屬性才能正常顯示的問題
+	2. 新增custom/style/custom.css來放置自訂調整之樣式
+	3. 修正hljs-mark等標籤類別附加的範圍錯誤
+	4. 補齊requirements.txt中遺漏的版本標示
+	5. 修正twitter card圖片無法顯示的問題
+	6. 修正footer連結的可點擊性
+	7. 修正Outline頁籤中頁內連結的游標樣式
 
 待做功能
 ----
@@ -50,4 +58,3 @@ python render.py -custom "custom" -update "all"
 - [ ] Tex Parse
 - [ ] Latex Parse
 - [ ] slides 多層清單文字化功能修正
-- [ ] footer連結的可點擊性

@@ -44,6 +44,14 @@ Versions
 	2. Fixed the problem that rss could not be uploaded to github.
 	3. Correct the color registration of txt and text in the program block language.
 	4. Modify footer text.
+* v1.0.2 2023/09/08 Article running version and preview correction.
+	1. Fixed the problem that article images must have alt attributes to display properly.
+	2. Add custom/style/custom.css to place custom adjusted styles.
+	3. Fixed the scope error attached to tag categories such as hljs-mark.
+	4. Complete the missing version mark in requirements.txt.
+	5. Fixed the problem that the twitter card picture cannot be displayed.
+	6. Modify the clickability of footer links.
+	7. Modify the cursor style of in-page links in the Outline tab.
 
 TODO
 ----
@@ -53,4 +61,3 @@ TODO
 - [ ] Tex Parse.
 - [ ] Latex Parse.
 - [ ] slides multi-level list text function correction.
-- [ ] Clickability of footer links.
