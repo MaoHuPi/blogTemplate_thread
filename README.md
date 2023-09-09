@@ -1,3 +1,5 @@
+![threadSBT-banner](document/image/banner.png)
+
 threadSBT
 =========
 
@@ -6,7 +8,7 @@ threadSBT
 
 > 2023 &copy; MaoHuPi
 > 
-> English / [繁體中文](README.zh-TW.md)
+> English / [繁體中文](document/README.zh-TW.md)
 
 What
 ----
@@ -52,12 +54,15 @@ Versions
 	5. Fixed the problem that the twitter card picture cannot be displayed.
 	6. Modify the clickability of footer links.
 	7. Modify the cursor style of in-page links in the Outline tab.
+* v1.0.3 2023/09/09 Article running version and preview correction.
+	1. Modify the default config.yaml.
+	2. Added article search function.
+	3. Added waving animation for interactive characters.
+	4. Change the documentation location.
 
 TODO
 ----
 
-- [ ] Article main/subtitle search.
-- [ ] more mcskin animations.
 - [ ] Tex Parse.
 - [ ] Latex Parse.
 - [ ] slides multi-level list text function correction.
