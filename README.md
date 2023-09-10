@@ -8,7 +8,9 @@ threadSBT
 
 > 2023 &copy; MaoHuPi
 > 
-> English / [繁體中文](document/README.zh-TW.md)
+> Document language: English / [繁體中文](document/README.zh-TW.md)
+> 
+> To use this template, please go to [original project location](https://github.com/maohupi/threadSBT) to download
 
 What
 ----
@@ -59,6 +61,9 @@ Versions
 	2. Added article search function.
 	3. Added waving animation for interactive characters.
 	4. Change the documentation location.
+* v1.0.4 2023/09/10 Article running version and preview correction
+	1. Modify the copied system prompt into a floating prompt box
+	2. Fixed the missing scope of label categories such as hljs-mark (caused by v1.0.2).
 
 TODO
 ----
@@ -66,3 +71,7 @@ TODO
 - [ ] Tex Parse.
 - [ ] Latex Parse.
 - [ ] slides multi-level list text function correction.
+- [ ] Related article recommendation function
+	* Analysis: Browsing? , Review (1~10)? , Like (1~5)?
+	* Data: tag, category, date
+- [ ] account management

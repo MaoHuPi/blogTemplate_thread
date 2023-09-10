@@ -8,7 +8,9 @@ threadSBT
 
 > 2023 &copy; MaoHuPi
 > 
-> 繁體中文 / [English](../README.md)
+> 說明文件語言：繁體中文 / [English](../README.md)
+> 
+> 若要使用此模板，請前往[原專案位置](https://github.com/maohupi/threadSBT)下載
 
 
 專案簡介
@@ -60,6 +62,9 @@ python render.py -custom "custom" -update "all"
 	2. 新增文章搜尋功能
 	3. 新增互動角色的揮手動畫
 	4. 更改說明文件位置
+* v1.0.4 2023/09/10 文章跑版與預覽修正
+	1. 修改複製後的系統提示變為浮動提示框
+	2. 修正hljs-mark等標籤類別附加的範圍缺漏（由v1.0.2造成）
 
 待做功能
 ----
@@ -67,3 +72,7 @@ python render.py -custom "custom" -update "all"
 - [ ] Tex Parse
 - [ ] Latex Parse
 - [ ] slides 多層清單文字化功能修正
+- [ ] 相關文章推薦功能
+	* 分析：瀏覽？、回顧(1~10)？、按讚(1~5)？
+	* 資料：tag、category、date
+- [ ] account management
